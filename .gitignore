@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# C extensions
+*.c
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+wheels/
+
+# Data files
+*.csv
+*.xlsx
+*.json
+*.xml
+data/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment variables file
+.env
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+ENV/
+env.bak/
+venv.bak/
+
+# PyCharm project files
+.idea/
+
+# Visual Studio Code files
+.vscode/
+
+# macOS specific files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Models and pickle files
+models/
+*.pkl
+
+# Ignore all files in models and data directory
+models/*
+data/*
+
+# Other system files
+Thumbs.db
