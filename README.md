@@ -18,7 +18,7 @@ This project applies supervised machine learning techniques to predict the survi
 
 2. **Preprocess data and train the model**:
     ```bash
-    python scripts/titanic_model.py
+    python scripts/train.py
 
 3. **Make predictions on new data**:
     ```bash
